@@ -1,0 +1,2 @@
+var ho;
+ho = "hoihoi";
